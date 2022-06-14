@@ -1,5 +1,6 @@
 # **FoodMood**
 ## Food Image Compiler
+### By: Sanay Nesargi
 
 ![Imgur Image](https://i.imgur.com/CZlzqlo.png)
 
